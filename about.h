@@ -22,7 +22,7 @@ input[type="button"] {
 <p style="font-family:Arial;font-size:30px"><b>Chrono Labeler</b><br></p>
 <img src="/logo.webp" width="317" height="556">
 <br><p style="font-size:20px">Firmware Version: VERNUM<br>
-<a href="https://www.montoreano.com">&copy; 2026 Pablo Montoreano</a></p>
+<a href="https://www.chronolabeler.com">&copy; 2026 Pablo Montoreano</a></p>
 <br>&nbsp;&nbsp;<input type="button" value="Accept" onclick="window.location.replace('/')">
 </body>
 </html>

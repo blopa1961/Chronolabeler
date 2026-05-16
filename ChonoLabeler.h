@@ -68,7 +68,7 @@ button[type="submit"] {
   <br><br><b><a href="/configDate">Configure Date and Time</a></b>
   <br><br><b><a href="/configWifi">Configure WiFi</a></b>
   <br><br><b><a href="/about">About</a></b></p>
-  <br><p style="font-size:17px"><a href="http://www.montoreano.com">&copy; 2026 Pablo Montoreano</a></p>
+  <br><p style="font-size:17px"><a href="http://www.chronolabeler.com">&copy; 2026 Pablo Montoreano</a></p>
 </body>
 </html>
 )=====";
