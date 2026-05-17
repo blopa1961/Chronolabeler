@@ -16,3 +16,5 @@ This device was born to cover the need of dating the food saved in the fridge or
 
 ## Hardware:
 A full description of the project is published [HERE](https://www.instructables.com/CHRONO-LABELER-a-Food-Dating-Device-for-Bluetooth-/)
+Versión en español disponible [AQUI](https://www.instructables.com/CHRONO-LABELER-Dispositivo-Fechador-De-Alimentos-P/)
+Código fuente Github en español disponible [AQUI](https://github.com/blopa1961/Chronolabeler-Esp)
