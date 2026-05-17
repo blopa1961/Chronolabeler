@@ -15,5 +15,4 @@ The license of use of this software is exclusively PERSONAL, that is, you cannot
 This device was born to cover the need of dating the food saved in the fridge or freezer.
 
 ## Hardware:
-A full description of the project is published here:
-https://www.instructables.com/CHRONO-LABELER-a-Food-Dating-Device-for-Bluetooth-/
+A full description of the project is published [HERE](https://www.instructables.com/CHRONO-LABELER-a-Food-Dating-Device-for-Bluetooth-/)
