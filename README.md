@@ -1,4 +1,4 @@
-# CHRONO LABELER: A food dating device for Bluetooth mini printers.
+# CHRONO-LABELER: Food-Dating & Labeling Device for Bluetooth Mini Printers
 This project allows you to make date and time labels using an Arduino ESP32 with a Bluetooth mini printer, without the need for a smartphone or PC.
 
 ![ChronolabelerTP110](https://github.com/blopa1961/Chronolabeler/blob/main/Images/ChronolabelerTP110.jpg)
